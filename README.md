@@ -168,3 +168,4 @@ LocalPlayer.CharacterAdded:Connect(function()
 	isRagdoll = false
 	table.clear(ragdollObjects)
 end)
+
